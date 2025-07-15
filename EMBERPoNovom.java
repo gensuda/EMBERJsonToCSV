@@ -86,7 +86,7 @@ public class EMBERPoNovom {
 			BufferedReader br = new BufferedReader(new FileReader(new File("d:\\Jan\\_DATA\\EMBER 2018\\od sveca 1.zip\\dataset_1_10000_raw.json")));
 			BufferedWriter bw = new BufferedWriter(new FileWriter(new File("d:\\Jan\\_DATA\\EMBER 2018\\od sveca 1.zip\\dataset_1_10000_raw.arff")));
 			*/
-			// pre kontrolu, kontrola ok., toto ide cernochovi
+			// pre kontrolu, kontrola ok., toto ide P.A.
 			/*
 			BufferedReader br = new BufferedReader(new FileReader(new File("d:\\Jan\\_DATA\\EMBER 2018\\pre cernocha 1k a 10k\\kontrola\\dataset_1_10000_raw.json")));
 			BufferedWriter bw = new BufferedWriter(new FileWriter(new File("d:\\Jan\\_DATA\\EMBER 2018\\pre cernocha 1k a 10k\\kontrola\\dataset_1_10000_raw.arff")));
